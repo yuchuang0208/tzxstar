@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>刷新</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01CRM首页-第一期-默认状态" transform="translate(-1477.000000, -72.000000)">
+            <g id="导航" transform="translate(497.000000, 65.000000)">
+                <g id="刷新" transform="translate(972.000000, 0.000000)">
+                    <g transform="translate(8.000000, 6.000000)">
+                        <g>
+                            <rect id="Rectangle-5" x="0" y="0" width="16" height="16"></rect>
+                            <path d="M1.5,8 C1.5,11.5898509 4.41014913,14.5 8,14.5 C9.78246406,14.5 11.3973539,13.7825296 12.5716303,12.620628 M14.5,8 C14.5,4.41014913 11.5898509,1.5 8,1.5 C6.21089417,1.5 4.59061369,2.2228272 3.41526136,3.39237878" id="Oval-2" stroke="#9AABB8" stroke-linecap="round"></path>
+                            <polygon id="Triangle" fill="#9AABB8" transform="translate(14.500000, 8.800000) scale(1, -1) translate(-14.500000, -8.800000) " points="14.5 8 16 9.6 13 9.6"></polygon>
+                            <polygon id="Triangle-Copy" fill="#9AABB8" points="1.5 6.5 3 8.1 0 8.1"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

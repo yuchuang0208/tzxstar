@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>云中心</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="云中心">
+            <g id="Group-11">
+                <rect id="Rectangle-17" x="0" y="0" width="26" height="26"></rect>
+                <path d="M6.32489408,13.1551927 L6.37427359,13.7030864 L5.8241675,13.7000663 C5.81208951,13.7000111 5.81208951,13.7000111 5.8,13.7 C3.42517558,13.7 1.5,15.6251756 1.5,18 C1.5,20.3748244 3.42517558,22.3 5.8,22.3 L19,22.3 C22.0375661,22.3 24.5,19.8375661 24.5,16.8 C24.5,13.7624339 22.0375661,11.3 19,11.3 C18.9241956,11.3 18.8485871,11.3015306 18.7732026,11.3045834 L18.378851,11.3205532 L18.2717373,10.9406915 C17.5367713,8.33425199 15.148809,6.5 12.4,6.5 C9.03106303,6.5 6.3,9.23106303 6.3,12.6 C6.3,12.7862642 6.30833362,12.9714451 6.32489408,13.1551927 Z" id="Combined-Shape" stroke="#CCCCCC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

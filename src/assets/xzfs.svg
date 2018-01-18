@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01CRM首页-第一期-默认状态" transform="translate(-1013.000000, -399.000000)">
+            <g id="Group-6-Copy" transform="translate(495.000000, 317.000000)">
+                <g id="Group-8-Copy-5" transform="translate(518.000000, 82.000000)">
+                    <g id="Group-24">
+                        <circle id="Oval-6" fill="#F8C1C1" cx="18" cy="18" r="18"></circle>
+                        <g id="粉丝" transform="translate(5.000000, 5.000000)">
+                            <rect id="Rectangle-23" x="0" y="0" width="26" height="26"></rect>
+                            <g id="Group-23" stroke-width="1" fill-rule="evenodd" transform="translate(1.000000, 4.000000)" stroke="#FFFFFF">
+                                <path d="M7.57693614,0.608738111 C5.08067255,0.815174932 3.62797215,2.10457711 3.21883492,4.47694463 C3.03453862,5.54558008 3.5298913,8.09701936 5.65544327,8.82523777 C6.64223845,9.27628227 5.96130421,9.61269462 5.81695822,9.64453125 C2.80689538,10.3084239 0.559060802,13.2170941 0.611667799,16.3033288" id="Path-2" stroke-linecap="round"></path>
+                                <path d="M23.8262697,0.604789402 C21.3300061,0.811226223 19.8773057,2.1006284 19.4681685,4.47299592 C19.2838722,5.54163137 19.7792249,8.09307065 21.9047769,8.82128906 C22.891572,9.27233356 22.2106378,9.60874591 22.0662918,9.64058254 C19.056229,10.3044752 16.8083944,13.2131454 16.8610014,16.2993801" id="Path-2" stroke-linecap="round" transform="translate(20.343183, 8.452085) scale(-1, 1) translate(-20.343183, -8.452085) "></path>
+                                <circle id="Oval" cx="12.5739003" cy="4.95652174" r="4.45652174"></circle>
+                                <path d="M5.2173913,16.5744624 C5.24054265,15.9034483 5.51894259,13.4210142 7.04615319,11.7297783 C8.46399887,10.1596533 10.3676546,9.29992095 12.7075832,9.39902081 C15.0475119,9.49812068 18.8761039,11.491582 19.1618122,16.4730697" id="Path-3" stroke-linecap="round"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

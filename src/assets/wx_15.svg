@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>编辑  copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编辑" transform="translate(-10.000000, -6.000000)">
+            <g id="编辑--copy" transform="translate(10.000000, 6.000000)">
+                <rect id="Rectangle-11" stroke="#9AABB8" stroke-width="1.44444444" x="1.03561254" y="15.7222222" width="14.5555556" height="1" rx="0.5"></rect>
+                <path d="M15.1036602,1.15987289 C14.5928029,0.672652186 13.7836629,0.681892504 13.284004,1.18531394 L6.69974023,7.82146999 C6.65898012,7.86254904 6.62566066,7.91039218 6.60126586,7.96286855 L5.42605399,10.4909012 C5.30964653,10.7413087 5.41827502,11.038671 5.66868251,11.1550784 C5.79831969,11.2153431 5.94755292,11.217234 6.07867543,11.1602734 L8.7574471,9.99659352 C8.81387921,9.97207896 8.86530209,9.93735942 8.90913179,9.89417951 L15.4977775,3.40321307 C16.0092362,2.89933693 16.0153831,2.07624541 15.5115069,1.5647867 C15.5063795,1.55960153 15.5063795,1.55960153 15.5012134,1.55445484 L15.1036602,1.15987289 Z" id="Path-2" stroke="#9AABB8"></path>
+                <polygon id="Line" fill="#9AABB8" fill-rule="nonzero" points="12.3378095 1.75488723 15.0164714 4.49434067 15.7314669 3.79521167 13.0528051 1.05575824"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

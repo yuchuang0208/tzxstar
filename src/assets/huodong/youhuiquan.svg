@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>优惠券</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05-会员唤醒" transform="translate(-495.000000, -442.000000)">
+            <g id="Group-8" transform="translate(215.000000, 392.000000)">
+                <g id="卡卷中心" transform="translate(280.000000, 50.000000)">
+                    <rect id="Rectangle-79" x="0" y="0" width="16" height="16"></rect>
+                    <g id="Group-11" stroke-width="1" fill-rule="evenodd" transform="translate(7.856742, 7.856742) rotate(-45.000000) translate(-7.856742, -7.856742) translate(1.634520, 2.967853)">
+                        <path d="M0.5,3.18481769 C1.19678271,3.39844602 1.7034188,4.04689502 1.7034188,4.81367521 C1.7034188,5.58045541 1.19678271,6.22890441 0.5,6.44253274 L0.5,8.3965812 C0.5,8.8001739 0.827176529,9.12735043 1.23076923,9.12735043 L10.8034188,9.12735043 C11.2070115,9.12735043 11.534188,8.8001739 11.534188,8.3965812 L11.534188,6.44253274 C10.8374053,6.22890441 10.3307692,5.58045541 10.3307692,4.81367521 C10.3307692,4.04689502 10.8374053,3.39844602 11.534188,3.18481769 L11.534188,1.23076923 C11.534188,0.827176529 11.2070115,0.5 10.8034188,0.5 L1.23076923,0.5 C0.827176529,0.5 0.5,0.827176529 0.5,1.23076923 L0.5,3.18481769 Z" id="Combined-Shape" stroke="#C1CED6"></path>
+                        <rect id="Rectangle-19" fill="#C1CED6" x="3.61025641" y="3.61025641" width="4.81367521" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-19-Copy" fill="#C1CED6" x="3.61025641" y="5.41538462" width="4.81367521" height="1" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

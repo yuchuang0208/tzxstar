@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="110px" viewBox="0 0 320 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M96.3039202,90 L3.17647059,90 C1.42215432,90 -1.79928158e-14,88.5778457 -1.82076576e-14,86.8235294 L0,3.17647059 L0,3.17647059 C-2.1484178e-16,1.42215432 1.42215432,-3.67454022e-15 3.17647059,-3.99680289e-15 L3.17647059,0 L96.3066613,0 C96.3046296,0.0585731027 96.3036053,0.11740223 96.3036053,0.176470588 C96.3036053,2.93789434 98.5421816,5.17647059 101.303605,5.17647059 C104.065029,5.17647059 106.303605,2.93789434 106.303605,0.176470588 C106.303605,0.11740223 106.302581,0.0585731027 106.300549,4.19803081e-15 L296.823529,0 C298.577846,-3.2226267e-16 300,1.42215432 300,3.17647059 L300,86.8235294 C300,88.5778457 298.577846,90 296.823529,90 L106.30329,90 C106.271745,87.2656791 104.045395,85.0588235 101.303605,85.0588235 C98.5618161,85.0588235 96.3354656,87.2656791 96.3039442,90 Z" id="path-1"></path>
+        <filter x="-5.8%" y="-13.9%" width="111.7%" height="138.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.856240997   0 0 0 0 0.918213914   0 0 0 0 0.964019983  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="11-选择优惠券-弹窗" transform="translate(-402.000000, -617.000000)">
+            <g id="弹窗" transform="translate(392.000000, 407.000000)">
+                <g id="优惠券-copy" transform="translate(20.000000, 215.000000)">
+                    <g id="Group-15">
+                        <g id="Combined-Shape-Copy-4">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <path stroke="#E3F0F6" stroke-width="1" d="M95.8316426,89.5 C96.1118074,86.7227795 98.4569489,84.5588235 101.303605,84.5588235 C104.150259,84.5588235 106.495403,86.7227767 106.775588,89.5 L296.823529,89.5 C298.301703,89.5 299.5,88.3017033 299.5,86.8235294 L299.5,3.17647059 C299.5,1.6982967 298.301703,0.5 296.823529,0.5 L106.794248,0.5 C106.626783,3.38697571 104.232564,5.67647059 101.303605,5.67647059 C98.3746463,5.67647059 95.9804275,3.38697571 95.8129629,0.5 L3.17647059,0.5 C1.6982967,0.5 0.5,1.6982967 0.5,3.17647059 L0.5,86.8235294 C0.5,88.3017033 1.6982967,89.5 3.17647059,89.5 L95.8316426,89.5 Z"></path>
+                        </g>
+                        <path d="M101,8 L101,84" id="Line-Copy-4" stroke="#E3F0F6" stroke-linecap="square" stroke-dasharray="2,4"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

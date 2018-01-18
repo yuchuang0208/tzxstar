@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>微信运营</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16" cy="22" r="2"></circle>
+        <circle id="path-2" cx="20" cy="7" r="2"></circle>
+        <circle id="path-3" cx="4" cy="10" r="2"></circle>
+    </defs>
+    <g id="规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ant-Design-Template" transform="translate(-934.000000, -1129.000000)">
+            <g id="图标" transform="translate(200.000000, 616.000000)">
+                <g id="微信运营" transform="translate(732.000000, 510.000000)">
+                    <path d="M19.3461694,6.61829666 L20.0532787,5.91118742 C18.2450577,4.11197405 15.7523866,3 13,3 C10.5021278,3 8.21815989,3.91583282 6.46556426,5.43003035 L7.17477426,6.13924035 C8.74464852,4.80500451 10.7783148,4 13,4 C15.4762442,4 17.718915,5.00004657 19.3461694,6.61829666 Z M21.8225858,11.2129481 L22.6537516,10.3817824 C22.8795356,11.2162891 23,12.0940765 23,13 C23,17.1006381 20.5318096,20.6247994 17,22.1679126 L17,21.0644804 C19.963437,19.5917778 22,16.5337213 22,13 C22,12.3881349 21.9389417,11.7905307 21.8225858,11.2129481 Z M12,21.9450712 L12,22.9506248 C6.94667731,22.4489003 3,18.1853481 3,13 C3,11.8140818 3.20643591,10.6763793 3.58533317,9.62086708 L4.37737743,10.4129113 C4.13188846,11.2322781 4,12.1007369 4,13 C4,17.6325537 7.50004954,21.4476269 12,21.9450712 Z" id="Combined-Shape" fill="#CCCCCC" fill-rule="nonzero"></path>
+                    <g id="Oval-5">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke="#CCCCCC" stroke-width="1" cx="16" cy="22" r="1.5"></circle>
+                    </g>
+                    <g id="Oval-5-Copy">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <circle stroke="#CCCCCC" stroke-width="1" cx="20" cy="7" r="1.5"></circle>
+                    </g>
+                    <g id="Oval-5-Copy">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <circle stroke="#CCCCCC" stroke-width="1" cx="4" cy="10" r="1.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>加</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05-会员唤醒" transform="translate(-697.000000, -893.000000)" stroke="#108EE9">
+            <g id="Group-10" transform="translate(215.000000, 672.000000)">
+                <g id="加" transform="translate(482.000000, 221.000000)">
+                    <path d="M0.5,11 C0.5,16.7996389 5.20036112,21.5 11,21.5 C16.7996389,21.5 21.5,16.7996389 21.5,11 C21.5,5.20036112 16.7996389,0.5 11,0.5 C5.20036112,0.5 0.5,5.20036112 0.5,11 Z" id="Shape" transform="translate(11.000000, 11.000000) scale(1, -1) translate(-11.000000, -11.000000) "></path>
+                    <path d="M11,7 L11,11 L7,11 L11,11 L11,15 L11,11 L15,11 L11,11 L11,7 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

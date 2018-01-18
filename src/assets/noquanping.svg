@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="top-copy" transform="translate(-1884.000000, -21.000000)" fill="#FFFFFF">
+            <g id="top">
+                <g id="Group-16" transform="translate(1884.000000, 21.000000)">
+                    <g id="Group-6">
+                        <rect id="Rectangle-14" x="5" y="1" width="1" height="5" rx="0.5"></rect>
+                        <rect id="Rectangle-56" x="1" y="5" width="5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-56" transform="translate(3.176777, 3.176777) rotate(45.000000) translate(-3.176777, -3.176777) " x="-0.815863992" y="2.6767767" width="7.98528137" height="1" rx="0.5"></rect>
+                    </g>
+                    <g id="Group-6-Copy-4" transform="translate(12.500000, 3.500000) scale(-1, 1) translate(-12.500000, -3.500000) translate(9.000000, 0.000000)">
+                        <rect id="Rectangle-14" x="5" y="1" width="1" height="5" rx="0.5"></rect>
+                        <rect id="Rectangle-56" x="1" y="5" width="5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-56" transform="translate(3.176777, 3.176777) rotate(45.000000) translate(-3.176777, -3.176777) " x="-0.815863992" y="2.6767767" width="7.98528137" height="1" rx="0.5"></rect>
+                    </g>
+                    <g id="Group-6-Copy-2" transform="translate(3.500000, 12.500000) scale(1, -1) translate(-3.500000, -12.500000) translate(0.000000, 9.000000)">
+                        <rect id="Rectangle-14" x="5" y="1" width="1" height="5" rx="0.5"></rect>
+                        <rect id="Rectangle-56" x="1" y="5" width="5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-56" transform="translate(3.176777, 3.176777) rotate(45.000000) translate(-3.176777, -3.176777) " x="-0.815863992" y="2.6767767" width="7.98528137" height="1" rx="0.5"></rect>
+                    </g>
+                    <g id="Group-6-Copy-3" transform="translate(12.500000, 12.500000) scale(-1, -1) translate(-12.500000, -12.500000) translate(9.000000, 9.000000)">
+                        <rect id="Rectangle-14" x="5" y="1" width="1" height="5" rx="0.5"></rect>
+                        <rect id="Rectangle-56" x="1" y="5" width="5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle-56" transform="translate(3.176777, 3.176777) rotate(45.000000) translate(-3.176777, -3.176777) " x="-0.815863992" y="2.6767767" width="7.98528137" height="1" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

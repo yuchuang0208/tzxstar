@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="4px" viewBox="0 0 8 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CRM首页-第一期" transform="translate(-603.000000, -27.000000)" fill="#FFFFFF">
+            <g id="top">
+                <g id="Group-4" transform="translate(505.000000, 17.000000)">
+                    <polygon id="Triangle" transform="translate(102.000000, 12.000000) scale(1, -1) translate(-102.000000, -12.000000) " points="102 10 106 14 98 14"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

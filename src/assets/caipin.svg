@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>菜品中心</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="菜品中心">
+            <rect id="Rectangle-10" x="0" y="0" width="26" height="26"></rect>
+            <g id="Group-11" transform="translate(2.000000, 2.000000)" fill="#CCCCCC">
+                <path d="M11,5.6 C12.2702549,5.6 13.3,4.57025492 13.3,3.3 C13.3,2.02974508 12.2702549,1 11,1 C9.72974508,1 8.7,2.02974508 8.7,3.3 C8.7,4.57025492 9.72974508,5.6 11,5.6 Z M11,6.6 C9.17746033,6.6 7.7,5.12253967 7.7,3.3 C7.7,1.47746033 9.17746033,0 11,0 C12.8225397,0 14.3,1.47746033 14.3,3.3 C14.3,5.12253967 12.8225397,6.6 11,6.6 Z" id="Oval-15" fill-rule="nonzero"></path>
+                <rect id="Rectangle-53" x="0" y="20.9" width="22" height="1" rx="0.5"></rect>
+                <path d="M20.8817609,16.6 C20.960265,16.2057592 21,15.8050454 21,15.4 C21,11.147394 16.5657575,7.6 11,7.6 C5.4342425,7.6 1,11.147394 1,15.4 C1,15.8050454 1.03973502,16.2057592 1.11824142,16.6 L20.8817609,16.6 Z M0,15.4 C0,10.5398942 4.92486775,6.6 11,6.6 C17.0751322,6.6 22,10.5398942 22,15.4 C22,16.1596591 21.8796792,16.8968362 21.6534519,17.6 L0.346548084,17.6 C0.120320759,16.8968362 0,16.1596591 0,15.4 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

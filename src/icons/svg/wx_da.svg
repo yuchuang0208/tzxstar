@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>微信数据分析</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ant-Design-Template" transform="translate(-1039.000000, -1129.000000)" stroke="#CCCCCC">
+            <g id="图标" transform="translate(200.000000, 616.000000)">
+                <g id="微信数据分析" transform="translate(837.000000, 510.000000)">
+                    <path d="M11.5,4.5 C6.52943725,4.5 2.5,8.52943725 2.5,13.5 C2.5,18.4705627 6.52943725,22.5 11.5,22.5 C16.1163694,22.5 19.9467749,19.0150121 20.4451412,14.5 L11.5,14.5 L11.5,4.5 Z" id="Combined-Shape"></path>
+                    <path d="M13.5,3.51293206 L13.5,12.5 L22.4870679,12.5 C22.2356474,7.65129822 18.3487018,3.76435264 13.5,3.51293206 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

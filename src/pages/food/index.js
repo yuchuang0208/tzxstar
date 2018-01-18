@@ -1,0 +1,1 @@
+export { default as memberpricemanagement } from './memberpricemanagement'

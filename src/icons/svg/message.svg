@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>消息中心</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ant-Design-Template" transform="translate(-778.000000, -1130.000000)">
+            <g id="图标" transform="translate(200.000000, 616.000000)">
+                <g id="消息中心" transform="translate(576.000000, 510.000000)">
+                    <path d="M15.3761601,19.7867993 L15.5113586,19.5 L22,19.5 C22.8284271,19.5 23.5,18.8284271 23.5,18 L23.5,6 C23.5,5.17157288 22.8284271,4.5 22,4.5 L4,4.5 C3.17157288,4.5 2.5,5.17157288 2.5,6 L2.5,18 C2.5,18.8284271 3.17157288,19.5 4,19.5 L10.4886414,19.5 L10.6238399,19.7867993 C11.4911243,21.6265874 12.3145856,22.5 13,22.5 C13.6854144,22.5 14.5088757,21.6265874 15.3761601,19.7867993 Z" id="Combined-Shape" stroke="#CCCCCC"></path>
+                    <rect id="Rectangle-3" fill="#CCCCCC" x="6" y="9" width="14" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle-3-Copy" fill="#CCCCCC" x="12" y="13" width="8" height="1" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #565656;">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>充值</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.926829268" y="5.75273339" width="34.2926829" height="1.34230443"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34.2926829" height="1.34230443" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M23.648628,29.7224558 L1.8541335,29.7224558 C0.830123843,29.7224558 0,28.8649748 0,27.8065906 L0,1.91586524 C0,0.857762083 0.822881542,0 1.85471405,0 L34.2916274,0 C35.3159577,0 36.1463415,0.854273209 36.1463415,1.91474277 L36.1463415,12.4286756" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36.1463415" height="29.7224558" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M27.8526843,21.8329416 C27.8608639,21.8332561 27.8690833,21.8334148 27.8773399,21.8334148 L37.2102788,21.8334148 C37.5579249,21.8334148 37.8413159,21.5482864 37.8413159,21.1965627 C37.8413159,20.8423869 37.558791,20.5597106 37.2102788,20.5597106 L27.9768447,20.5597106 L30.9981254,17.53843 C31.2472098,17.2893456 31.2467808,16.8865421 30.9980746,16.6378359 C30.7476345,16.3873958 30.3461587,16.389107 30.0974805,16.6377852 L26.0230334,20.7122323 C25.865209,20.8700568 25.8075572,21.0895951 25.8497636,21.2925451 C25.828753,21.4785416 25.8901211,21.6716681 26.032887,21.814434 L30.1073342,25.8888811 C30.3564186,26.1379656 30.7592221,26.1375366 31.0079283,25.8888304 C31.2583684,25.6383903 31.2566572,25.2369145 31.007979,24.9882363 L27.8526843,21.8329416 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="9.79591024" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="充值">
+            <g>
+                <rect id="Rectangle-39" fill="#D8D8D8" opacity="0" x="0" y="0" width="48" height="48"></rect>
+                <g id="Group-12" transform="translate(5.000000, 9.000000)">
+                    <use id="Rectangle-36" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-1"></use>
+                    <use id="Rectangle-35" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="2.8" xlink:href="#path-3"></use>
+                    <rect id="Rectangle-38" fill="#FFFFFF" x="3.70731707" y="23.9697225" width="5.56097561" height="1.34230443" rx="0.671152217"></rect>
+                    <ellipse id="Oval-6" fill="#FFFFFF" cx="35.4975613" cy="12.368564" rx="0.648780477" ry="0.671152217"></ellipse>
+                    <ellipse id="Oval-6-Copy-2" fill="#FFFFFF" cx="23.6341492" cy="29.0513972" rx="0.648780477" ry="0.671152217"></ellipse>
+                    <use id="Combined-Shape" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

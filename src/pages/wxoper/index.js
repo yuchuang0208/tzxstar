@@ -1,0 +1,6 @@
+export { default as wechatvote } from './wechatvote'
+export { default as reward_manage } from './reward_manage'
+export { default as erCode_manage } from './erCode_manage'
+export { default as member_manage } from './member_manage'
+export { default as assesspresent } from './assesspresent'
+export { default as game_manage } from './game_manage'

@@ -1,0 +1,11 @@
+
+export { default as foodcouponmanagement } from './foodcouponmanagement'
+export { default as cashcouponmanagement } from './cashcouponmanagement'
+export { default as crmcardclassset } from './cardclassification/crmcardclassset'
+export { default as crmcardcommissionset } from './crmcardcommissionset'
+export { default as couponsrecycling } from './couponsrecycling'
+export { default as electroniccoupon } from './electroniccoupon'
+export { default as couponsdeduct } from './coupons_deduct'
+export { default as couponsdish } from './coupons_dish'
+export { default as card1 } from './card1'
+export { default as cardAdministration }from './cardAdministration'
